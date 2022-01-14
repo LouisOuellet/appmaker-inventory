@@ -1,0 +1,13 @@
+{
+    "repository": {
+        "name": "appmaker-inventory",
+        "branch": "dev",
+        "manifest": "\/dist\/data\/manifest.json",
+        "host": {
+            "git": "git@github.com:LouisOuellet\/appmaker-inventory"
+        }
+    },
+    "name": "inventory",
+    "build": 2,
+    "version": "22.01-dev"
+}
